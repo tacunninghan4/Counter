@@ -1,0 +1,22 @@
+
+#mainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10%;
+    height: 80vh;
+    width: 100%;  
+    background-image: url("./photo-1548175551-1edaea7bbf0d\ \(1\).jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div {
+    display: block;
+}
+
+
+#myForm{
+    background-color: rgb(238, 212, 127);
+    padding: 40px;
+}
